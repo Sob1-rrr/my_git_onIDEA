@@ -10,6 +10,8 @@ public class SpringBoot01CreateProjectApplication {
         SpringApplication.run(SpringBoot01CreateProjectApplication.class, args);
 
 
+        System.out.println("hello girls！");
+
 
     }
 
